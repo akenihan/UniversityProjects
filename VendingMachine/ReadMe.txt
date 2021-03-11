@@ -1,3 +1,6 @@
+A simple vending machine program created in oder to further learn object oriented programming in java, using JavaFX as a GUI.
+
+
 How to use Vending Machine
 1.compile all classes
 2.run VendingMachineSimulation
